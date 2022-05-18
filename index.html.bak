@@ -1,19 +1,19 @@
-安全<br>
+安全<br><br>
 
-1.渗透测试之信息收集<br>
+1.渗透测试之信息收集<br><br>
 
-域名以及子域名信息、目标网站系统、CMS指纹、目标网站真实IP、开放端口<br>
+域名以及子域名信息、目标网站系统、CMS指纹、目标网站真实IP、开放端口<br><br>
 
-1.1 收集域名信息<br>
-获取域名的注册信息，包括该域名的DNS服务信息和注册人的信息<br>
+1.1 收集域名信息<br><br>
+获取域名的注册信息，包括该域名的DNS服务信息和注册人的信息<br><br>
 
-1.1.1 Whois查询<br>
-Whois 是一个标准互联网协议，可以用于收集网络注册信息、注册域名、IP地址等信息。<br>
+1.1.1 Whois查询<br><br>
+Whois 是一个标准互联网协议，可以用于收集网络注册信息、注册域名、IP地址等信息。<br><br>
 
-Centos下查询命令如下<br>
-whois zhihu.com<br>
+Centos下查询命令如下<br><br>
+whois zhihu.com<br><br><br>
 
-可以通过 yum install -y whois 来安装此工具<br>
+可以通过 yum install -y whois 来安装此工具<br><br>
 
 
-2.<br>
+2.<br><br>
