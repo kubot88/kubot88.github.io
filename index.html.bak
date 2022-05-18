@@ -18,14 +18,30 @@ whois zhihu.com<br><br><br>
 
 1.1.2 备案信息查询<br><br>
 
-.....<br><br>
+https://www.ggcx.com/main/integrated <br><br>
 
 1.2 搜索漏洞<br><br>
 
+Google 关键字搜索<br><br>
+Site     指定域名
+Inurl    URL中存在的关键字的网页
+Intext   网页正文中的关键字
+Filetype 指定文件类型
+Intitle  网页标题中的关键字
+link     link:baidu.com 即返回所有和baidu.com 做了链接的URL
+Info     查找指定站点的一些基本信息
+cache    从Google 里搜索关于某些内容的缓存
+
+
 1.2.1<br><br>
-乌云镜像站  http://wooyun.2xss.cc/index.php  <br><br>
+乌云镜像站<br><br>  
+http://wooyun.2xss.cc/index.php  <br><br>
 
-乌云主站+知识库镜像文件 便携版(47M)   https://www.v2ex.com/t/301787  <br><br>
+乌云主站+知识库镜像文件 便携版(47M) <br><br>   
+https://www.v2ex.com/t/301787  <br><br>
 
-乌云只读仓库    https://github.com/hanc00l/wooyun_public  <br><br>
+乌云只读仓库 <br><br>   
+https://github.com/hanc00l/wooyun_public  <br><br>
+
+
 
